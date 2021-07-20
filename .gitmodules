@@ -7,3 +7,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:stony-d/ft_printf.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:stony-d/so_long.git
