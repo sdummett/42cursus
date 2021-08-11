@@ -13,3 +13,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = git@github.com:sdummett/minitalk.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:sdummett/pipex.git
