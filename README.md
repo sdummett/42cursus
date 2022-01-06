@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-git clone --recurse-submodules git@github.com:sdummett/42cursus.git
+git clone --recursive git@github.com:sdummett/42cursus.git
 ```
 
 ## Author
