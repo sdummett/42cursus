@@ -16,3 +16,12 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:sdummett/pipex.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:sdummett/push_swap.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:sdummett/minishell.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:sdummett/philosophers.git
