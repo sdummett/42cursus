@@ -8,6 +8,12 @@
 git clone --recursive git@github.com:sdummett/42cursus.git
 ```
 
+## Update submodules
+This is to check if the submodules are updated with the last commit of their original repository.
+```sh
+git submodule foreach git pull origin main
+```
+
 ## Author
 
 👤 **Stone**
