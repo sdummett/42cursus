@@ -2,18 +2,6 @@
 
 > This repository regroups all my projects done at 42.
 
-## Install
-
-```sh
-git clone --recursive git@github.com:sdummett/42cursus.git
-```
-
-## Update submodules
-This is to check if the submodules are updated with the last commit of their original repository.
-```sh
-git submodule foreach git pull origin main
-```
-
 ## List of 42cursus projects
 
 - **[Libft](https://github.com/sdummett/libft)**
@@ -25,6 +13,18 @@ git submodule foreach git pull origin main
 - **[push_swap](https://github.com/sdummett/push_swap)**
 - **[minishell](https://github.com/sdummett/minishell)**
 - **[philosophers](https://github.com/sdummett/philosophers)**
+
+## Install
+
+```sh
+git clone --recursive git@github.com:sdummett/42cursus.git
+```
+
+## Update submodules
+This is to check if the submodules are updated with the latest commits of their original repository.
+```sh
+git submodule foreach git pull origin main
+```
 
 ## Author
 
