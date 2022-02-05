@@ -13,6 +13,7 @@
 - **[push_swap](https://github.com/sdummett/push_swap)**
 - **[minishell](https://github.com/sdummett/minishell)**
 - **[philosophers](https://github.com/sdummett/philosophers)**
+- **[cpp_modules](https://github.com/sdummett/cpp_modules)**
 
 ## Install
 
